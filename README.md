@@ -43,7 +43,7 @@ agentdesk/
 │           ├── MessageBubble.jsx
 │           └── ChatInput.jsx
 └── docs/
-    └── COMMIT_PLAN.md         # Day-by-day plan for spreading this into real commits
+   
 ```
 
 ## Setup
@@ -74,4 +74,3 @@ Then open the Vite dev URL (usually http://localhost:5173).
 4. This repeats until Claude replies with plain text — that's the final answer, which
    gets sent back to the frontend.
 
-See `docs/COMMIT_PLAN.md` for how to split this into daily GitHub commits.
